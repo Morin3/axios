@@ -124,7 +124,7 @@
     "memoizee": "^0.4.15",
     "minimist": "^1.2.8",
     "mocha": "^10.3.0",
-    "multer": "^1.4.4",
+    "multer": "^2.0.2",
     "pretty-bytes": "^6.1.1",
     "release-it": "^15.11.0",
     "rollup": "^2.79.1",
@@ -148,7 +148,7 @@
   "typings": "./index.d.ts",
   "dependencies": {
     "follow-redirects": "^1.15.6",
-    "form-data": "^4.0.0",
+    "form-data": "^4.0.4",
     "proxy-from-env": "^1.1.0"
   },
   "bundlesize": [
